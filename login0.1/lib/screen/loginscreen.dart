@@ -91,10 +91,10 @@ class LoginPageState extends State<LoginPage> with SingleTickerProviderStateMixi
                           textColor: Colors.black,
                           child: new Text("Login"),
                           onPressed: (){
-                            Navigator.push(
-                              context,
-                              MaterialPageRoute(builder:(context) => MenuDashboardPage()),
-                              );
+                            //Navigator.push(
+                            //  context,
+                            //  MaterialPageRoute(builder:(context) => MenuDashboardPage()),
+                            //  );
                             },
                           splashColor: Colors.purple,
                           
