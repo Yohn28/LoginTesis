@@ -95,12 +95,7 @@ class LoginPageState extends State<LoginPage> with SingleTickerProviderStateMixi
                               context,
                               MaterialPageRoute(builder:(context) => MenuDashboardPage()),
                               );
-                              // prueba  wefae
-                              // sdjflajslda
-                              // askaksdkaslkdjas
-                              // branch yowil
-                              // purbeasndajsnd
-
+                              //  yohn
                               // prueba
 
                             },
